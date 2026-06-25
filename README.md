@@ -4,11 +4,13 @@
 ---
 
 ## About Me
-I am a junior ML engineer focused on applied machine learning and deep learning. I build educational and portfolio projects, study modern ML approaches, and improve my practical skills through hands-on work with data, model training, evaluation, and experimentation.
+  I am a Junior Machine Learning Engineer. During my training, I studied the complete machine learning development pipeline, including data preparation and analysis, classical machine learning algorithms, deep learning, computer vision, natural language processing, reinforcement learning, time series analysis, and large language models.   
+  Transitioning into machine learning was a natural step in my professional development. My experience in mobile application development gave me a solid understanding of the full software development lifecycle. Over time, I became increasingly interested not only in building applications but also in developing intelligent systems capable of analyzing data, learning from it, and solving complex real-world problems. This motivated me to focus on machine learning and deep learning.
 
-My recent projects are centered around PyTorch, TensorFlow/Keras, scikit-learn, transformers, and classical machine learning. I work across different ML tasks to build a broad foundation and better understand how models are trained, compared, and applied in practice.
+## Contact
+**Location:** Ivanovo, Russia
 
-I also have a strong software engineering background from native mobile development, which helps me structure projects carefully, write maintainable code, and think in terms of product implementation rather than only experiments.
+**Email:** himynameisartem@icloud.com
 
 ## What I Work With
 - Build and compare ML/DL models for real tasks
@@ -19,14 +21,31 @@ I also have a strong software engineering background from native mobile developm
 - Package educational and portfolio projects into reproducible GitHub repositories
 
 ## Featured Projects
-- [A&K Consulting Assistant](https://github.com/himynameisartem/AandK_consoulting_assistant) - local RAG chatbot with document collection, chunking, embeddings, Chroma, and a local LLM
-- [AAPL Time Series Forecasting](https://github.com/himynameisartem/AAPL_timeseries_forecasting) - neural-network-based forecasting of Apple stock prices with TensorFlow/Keras
-- [Text Classification: DistilBERT vs Logistic Regression](https://github.com/himynameisartem/text_classification_distilbert_vs_logreg) - comparison of transformer-based and classical approaches for text classification
-- [ChatBot Transformer](https://github.com/himynameisartem/ChatBot-Transformer) - educational Russian dialogue model built with a custom seq2seq Transformer in PyTorch
-- [Chess Detection YOLOv3](https://github.com/himynameisartem/chess_detectioin_YOLOv3) - object detection project for chess piece recognition using a custom YOLOv3 implementation
-- [Lung Segmentation AI](https://github.com/himynameisartem/Lung-Segmentation-AI) - semantic segmentation of lungs in X-ray images using U-Net and U-Net++
-- [Autoencoder Watermark Removal](https://github.com/himynameisartem/Autoencoder_Watermarks_Removal) - U-Net-based image restoration model for watermark removal
-- [Japanese Cars Price Regression](https://github.com/himynameisartem/japanese-cars-price-regression) - regression pipeline for used car price prediction on tabular data
+- [A&K Consulting Assistant](https://github.com/himynameisartem/AandK_consoulting_assistant)     
+  Developed a local AI assistant that answers questions based on documents using Retrieval-Augmented Generation (RAG). Implemented document loading, text chunking, embedding  generation, vector search, and integration with a local language model.   
+  Stack: Python, LangChain, ChromaDB, Ollama
+- [Chess Detection YOLOv3](https://github.com/himynameisartem/chess_detectioin_YOLOv3)   
+  Developed a chess piece detection system using a custom implementation of YOLOv3. Prepared the dataset, trained the model, evaluated its performance, and visualized the detection results.   
+Stack: Python, TensorFlow, Keras, YOLOv3, OpenCV.   
+- [Lung Segmentation AI](https://github.com/himynameisartem/Lung-Segmentation-AI)
+  Developed a model for automatic lung segmentation in chest X-ray images. Implemented the complete pipeline for data preparation, model training, and evaluation using U-Net and U-Net++, and compared their performance on the test dataset.
+Stack: Python, PyTorch, U-Net, U-Net++, OpenCV, NumPy.  
+- [ChatBot Transformer](https://github.com/himynameisartem/ChatBot-Transformer)
+  Developed a Transformer-based conversational model for generating responses in Russian. Implemented model training, text tokenization, and the inference pipeline.   
+  Stack: Python, PyTorch, Transformer, NLP.
+- [Text Classification: DistilBERT vs Logistic Regression](https://github.com/himynameisartem/text_classification_distilbert_vs_logreg)   
+  Implemented a text classification system and compared a classical Logistic Regression approach with the DistilBERT transformer model. Trained both models and evaluated their performance.   
+  Stack: Python, PyTorch, Hugging Face Transformers, scikit-learn.
+- [Japanese Cars Price Regression](https://github.com/himynameisartem/japanese-cars-price-regression)
+   Developed a machine learning model for predicting used car prices based on tabular data. Performed data preprocessing, trained multiple regression models, and compared their performance.   
+  Stack Python, scikit-learn, XGBoost, Pandas, NumPy.
+- [Autoencoder Watermark Removal](https://github.com/himynameisartem/Autoencoder_Watermarks_Removal)
+  Developed a model for removing watermarks from images based on the U-Net architecture. Prepared the dataset, trained the model, and evaluated the quality of image restoration.
+  Stack: Python, PyTorch, U-Net, OpenCV.
+- [AAPL Time Series Forecasting](https://github.com/himynameisartem/AAPL_timeseries_forecasting)
+  Developed a model for forecasting Apple stock prices using time series data. Performed data preprocessing, trained a neural network, and analyzed forecasting accuracy.   
+  Stack: Python, TensorFlow, Keras, Pandas, NumPy.
+
 
 ## Skills
 - **Languages:** Python, Swift
@@ -40,12 +59,8 @@ I also have a strong software engineering background from native mobile developm
 - **Additional:** recommendation systems, time series forecasting
 - **Other:** Git, GitHub
 
-## Background
-Before moving into ML, I developed native mobile applications and published iOS projects to the App Store. That experience strengthened my engineering discipline, architecture thinking, and ability to turn technical work into usable products.
-
 ## Courses
-- Neural Networks Developer Certificate
-- CS193P - Stanford University
+- [THE FOUNDER Cource «ML/AI Developer»](https://drive.google.com/file/d/1q7JDwP92IhINEQ8RopYY1UMWtjvQyLTJ/view?usp=share_link) 
 - CS50 - Harvard University
 
 ## Links
@@ -55,8 +70,3 @@ Before moving into ML, I developed native mobile applications and published iOS 
 ## Languages
 - Russian - Native
 - English - B1
-
-## Contact
-**Location:** Ivanovo, Russia
-
-**Email:** himynameisartem@icloud.com
