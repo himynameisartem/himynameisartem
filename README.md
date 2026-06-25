@@ -10,7 +10,11 @@
 ## Contact
 **Location:** Ivanovo, Russia
 
-**Email:** himynameisartem@icloud.com
+**Email:** himynameisartem@icloud.com   
+
+**Phone:** +7(999) 730-11-76   
+   
+**Telegram:** @himynameisartem92
 
 ## What I Work With
 - Build and compare ML/DL models for real tasks
